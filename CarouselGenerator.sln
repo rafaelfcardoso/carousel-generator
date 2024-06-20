@@ -4,8 +4,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarouselGenerator", "Carous
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarouselGenerator.API", "CarouselGenerator.API\CarouselGenerator.API.csproj", "{F9C9A321-87B8-4D6B-9BCD-AB429287AD3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarouselGenerator.Web", "CarouselGenerator.Web\CarouselGenerator.Web.csproj", "{991CA84E-21CA-44F7-991C-67AE60B81A02}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,9 +18,5 @@ Global
 		{F9C9A321-87B8-4D6B-9BCD-AB429287AD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9C9A321-87B8-4D6B-9BCD-AB429287AD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9C9A321-87B8-4D6B-9BCD-AB429287AD3C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{991CA84E-21CA-44F7-991C-67AE60B81A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{991CA84E-21CA-44F7-991C-67AE60B81A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{991CA84E-21CA-44F7-991C-67AE60B81A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{991CA84E-21CA-44F7-991C-67AE60B81A02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
